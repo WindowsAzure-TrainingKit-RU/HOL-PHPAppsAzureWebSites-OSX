@@ -34,7 +34,7 @@ The following is required to complete this hands-on lab:
 	>
 	>By using -g, Windows Azure Command-Line Tools will install on your machine globally. That means, you will be able to execute azure commands from any location.
 
-- A Windows Azure subscription with the Web Sites Preview enabled - you can sign up for free trial [here](http://bit.ly/WindowsAzureFreeTrial)
+- A Windows Azure subscription with the Web Sites Preview enabled - [sign up for a free trial](http://aka.ms/WATK-FreeTrial)
 
 >**Note:** This lab was designed to use the OS X Operating System.
 
