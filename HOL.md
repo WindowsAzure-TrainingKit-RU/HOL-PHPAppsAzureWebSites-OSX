@@ -29,7 +29,7 @@ The following is required to complete this hands-on lab:
 	>**Note:** If you do not have the Windows Azure Command-Line Tools for Mac and Linux installed, open a terminal and run the following command:
 	>
 	>````ShellScript
-	>sudo npm install azure -g
+	>sudo npm install azure-cli -g
 	>````
 	>
 	>By using -g, Windows Azure Command-Line Tools will install on your machine globally. That means, you will be able to execute azure commands from any location.
