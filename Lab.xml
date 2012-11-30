@@ -12,7 +12,7 @@
   <Description>In this hands-on lab you will explore the basic elements of the Windows Azure Web Sites service by creating a simple PHP application and deploying it using FTP deployment feature.</Description>
   <Document ConversionType="Html">.\HOL.md</Document>
   <Title>Building and Publishing PHP Applications with Windows Azure Web Sites (OS X)</Title>
-  <Version>1.0.2</Version>
+  <Version>1.0.3</Version>
   <Source></Source>
   <CustomProperties>
     <Property Name="ContentType" Value="OSS" />
